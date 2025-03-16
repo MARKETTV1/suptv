@@ -9,7 +9,7 @@ NC='\033[0m' # No Color
 
 # Start message
 echo -e "${YELLOW}>>> ############################${NC}"
-echo -e "${BLUE}>>> plugin uploaded by team4e2${NC}"
+echo -e "${YELLOW}>>> plugin uploaded by team4e2${NC}"
 echo -e "${YELLOW}>>>############################${NC}"
 
 echo -e "${BLUE}>>> Starting Suptv Plugin update process...${NC}"
